@@ -1,0 +1,11 @@
+{
+  "name": "one-tj",
+  "description":"onetj",
+  "version": "1.5.1",
+  "author": "Angel",
+  "main": "index.html",
+  "devDependecies": {
+    "gulp": "^3.9.1",
+    "tiny-lr": "^1.0.3"
+  }
+}
